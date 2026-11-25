@@ -10,7 +10,7 @@ An entry for the [make.fun](https://make.fun) bounty **"Fix Human Sleep: Funnies
 
 > Fixed: sleep no longer crashes at 3 a.m. — the background process replaying your most embarrassing moment from 2014 has been terminated.
 
-138 characters. One changelog line: the crash report every insomniac knows (wide awake at 3 a.m.), with the culprit named as a background process — the brain replaying one embarrassing moment from 2014 on a loop.
+136 characters. One changelog line: the crash report every insomniac knows (wide awake at 3 a.m.), with the culprit named as a background process — the brain replaying one embarrassing moment from 2014 on a loop.
 
 ## How it works
 
